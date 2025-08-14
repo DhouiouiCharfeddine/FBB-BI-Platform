@@ -44,6 +44,7 @@ It automates the ingestion, processing, and analysis of daily network router dat
 ├── ETL_Routers.py                         # Main ETL script
 ├── Ingest_RoutersData.py                  # Import JSON into MongoDB
 ├── MyService.py                           # Windows service orchestrating the pipeline
+├── FBB_PlatformBI.pdf                     # the dashbords screenshots
 └── README.md
 ```
 
