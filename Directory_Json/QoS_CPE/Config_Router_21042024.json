@@ -1,0 +1,68 @@
+{
+    "routers": {
+        "172.16.105.207": {
+            "Measure_Time": {
+                "21/04/2024  0:30:05": {
+                    "IF-MIB-ifDescr.1": "GigabitEthernet0/0/0",
+                    "IF-MIB-ifDescr.2": "Embedded-Service-Engine0/0",
+                    "IF-MIB-ifDescr.3": "GigabitEthernet0/0",
+                    "IF-MIB-ifDescr.4": "GigabitEthernet0/1",
+                    "IF-MIB-ifDescr.5": "Null0",
+                    "IF-MIB-ifDescr.6": "NVI0",
+                    "IF-MIB-ifDescr.7": "GigabitEthernet0/0/0.126",
+                    "IF-MIB-ifDescr.8": "GigabitEthernet0/0/0.1528",
+                    "IF-MIB-ifDescr.9": "Loopback0",
+                    "Time": "21/04/2024  0:30:05"
+                }
+            }
+        },
+        "172.16.102.206": {
+            "Measure_Time": {
+                "21/04/2024  0:30:05": {
+                    "IF-MIB-ifDescr.1": "GigabitEthernet0/0/0",
+                    "IF-MIB-ifDescr.10": "Null0",
+                    "IF-MIB-ifDescr.11": "ATM0/2/0-atm layer",
+                    "IF-MIB-ifDescr.12": "ATM0/2/0.0-atm subif",
+                    "IF-MIB-ifDescr.13": "ATM0/2/0-aal5 layer",
+                    "IF-MIB-ifDescr.14": "ATM0/2/0.0-aal5 layer",
+                    "IF-MIB-ifDescr.15": "Vlan1",
+                    "IF-MIB-ifDescr.16": "GigabitEthernet0/0/0.126",
+                    "IF-MIB-ifDescr.17": "GigabitEthernet0/0/0.2412",
+                    "IF-MIB-ifDescr.2": "GigabitEthernet0/1/0",
+                    "IF-MIB-ifDescr.3": "GigabitEthernet0/1/1",
+                    "IF-MIB-ifDescr.4": "GigabitEthernet0/1/2",
+                    "IF-MIB-ifDescr.5": "GigabitEthernet0/1/3",
+                    "IF-MIB-ifDescr.6": "Ethernet0/2/0",
+                    "IF-MIB-ifDescr.7": "Ethernet0/2/0-vdsl2",
+                    "IF-MIB-ifDescr.8": "ATM0/2/0",
+                    "IF-MIB-ifDescr.9": "ATM0/2/0-adsl",
+                    "Time": "21/04/2024  0:30:05"
+                }
+            }
+        },
+        "172.16.106.34": {
+            "Measure_Time": {
+                "21/04/2024  0:30:05": {
+                    "IF-MIB-ifDescr.1": "InLoopBack0",
+                    "IF-MIB-ifDescr.10": "GigabitEthernet0/0/7",
+                    "IF-MIB-ifDescr.11": "GigabitEthernet0/0/8",
+                    "IF-MIB-ifDescr.12": "GigabitEthernet0/0/9",
+                    "IF-MIB-ifDescr.13": "Cellular0/0/0",
+                    "IF-MIB-ifDescr.14": "GigabitEthernet0/0/10",
+                    "IF-MIB-ifDescr.15": "Vlanif1",
+                    "IF-MIB-ifDescr.16": "GigabitEthernet0/0/8.123",
+                    "IF-MIB-ifDescr.17": "GigabitEthernet0/0/8.453",
+                    "IF-MIB-ifDescr.2": "NULL0",
+                    "IF-MIB-ifDescr.3": "GigabitEthernet0/0/0",
+                    "IF-MIB-ifDescr.4": "GigabitEthernet0/0/1",
+                    "IF-MIB-ifDescr.5": "GigabitEthernet0/0/2",
+                    "IF-MIB-ifDescr.6": "GigabitEthernet0/0/3",
+                    "IF-MIB-ifDescr.7": "GigabitEthernet0/0/4",
+                    "IF-MIB-ifDescr.8": "GigabitEthernet0/0/5",
+                    "IF-MIB-ifDescr.9": "GigabitEthernet0/0/6",
+                    "Time": "21/04/2024  0:30:05"
+                }
+            }
+        }
+    }
+}
